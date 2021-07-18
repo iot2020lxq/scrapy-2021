@@ -1,0 +1,15 @@
+3.9版本
+文档：https://www.runoob.com/python3/python3-os-file-methods.html
+
+开发工具设置：
+keys
+
+配置环境变量：
+D:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts
+D:\Users\Administrator\AppData\Local\Programs\Python\Python37
+
+设置国内镜像（清华源）：
+https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install requests
